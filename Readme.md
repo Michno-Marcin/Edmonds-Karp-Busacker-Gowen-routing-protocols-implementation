@@ -1,3 +1,5 @@
+# Edmonds-Karp-Busacker-Gowen-routing-protocols-implementation
+
 This project is Matlab implementation of Edmonds-Karp and Busacker-Gowen algorithms to find maximum flow at minimum cost in networks.
 
 By checking "PrzykladZastosowaniaMetodySuperujsciaSuperZrodla" script and running consecutive lines with comments you can see the idea of supersources, superoutlets in practice.
